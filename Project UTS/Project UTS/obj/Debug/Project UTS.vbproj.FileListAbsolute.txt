@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Project UTS\Project UTS\bin\Debug\Project UTS.exe.config
+C:\Users\User\source\repos\Project UTS\Project UTS\bin\Debug\Project UTS.exe
+C:\Users\User\source\repos\Project UTS\Project UTS\bin\Debug\Project UTS.pdb
+C:\Users\User\source\repos\Project UTS\Project UTS\bin\Debug\Project UTS.xml
+C:\Users\User\source\repos\Project UTS\Project UTS\obj\Debug\Project UTS.vbproj.AssemblyReference.cache
+C:\Users\User\source\repos\Project UTS\Project UTS\obj\Debug\Project_UTS.Resources.resources
+C:\Users\User\source\repos\Project UTS\Project UTS\obj\Debug\Project UTS.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\Project UTS\Project UTS\obj\Debug\Project UTS.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Project UTS\Project UTS\obj\Debug\Project UTS.exe
+C:\Users\User\source\repos\Project UTS\Project UTS\obj\Debug\Project UTS.xml
+C:\Users\User\source\repos\Project UTS\Project UTS\obj\Debug\Project UTS.pdb
+C:\Users\User\source\repos\Project UTS\Project UTS\obj\Debug\Project_UTS.Fajar.resources
