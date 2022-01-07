@@ -157,7 +157,7 @@ Partial Class Form1
         '
         Me.jumlah_buku.Location = New System.Drawing.Point(165, 262)
         Me.jumlah_buku.Name = "jumlah_buku"
-        Me.jumlah_buku.Size = New System.Drawing.Size(120, 23)
+        Me.jumlah_buku.Size = New System.Drawing.Size(200, 23)
         Me.jumlah_buku.TabIndex = 13
         '
         'ListBox1
@@ -247,7 +247,7 @@ Partial Class Form1
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label1)
         Me.Name = "Form1"
-        Me.Text = "Form1"
+        Me.Text = "PERPUSTAKAAN - FAJAR FADILAH_2019010012"
         CType(Me.jumlah_buku, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
